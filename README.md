@@ -12,3 +12,8 @@
 3. [Brad Traversy (the DOM) part 3](https://youtu.be/wK2cBMcDTss)	
 4. [Brad Traversy (the DOM) part 4](https://youtu.be/i37KVt_IcXw)
 
+##### Fun Projects to Build
+1. [Recreate Change the background color](https://js-beginners.github.io/project_change_color_background/)
+2. [Recreate Make Rock Paper Scissors](https://romeojeremiah.github.io/rock-paper-scissors-project/)
+3. [Recreate the guessing game](https://gallant-jennings-922a1c.netlify.app/)
+4. [Build some of the project ideas](https://javascript.plainenglish.io/13-javascript-project-ideas-for-beginners-to-sharpen-your-coding-skills-2892c8400554)
