@@ -12,6 +12,3 @@
 3. [Brad Traversy (the DOM) part 3](https://youtu.be/wK2cBMcDTss)	
 4. [Brad Traversy (the DOM) part 4](https://youtu.be/i37KVt_IcXw)
 
-##### String Assignments
-##### Array Assignments
-##### DOM Assignments
